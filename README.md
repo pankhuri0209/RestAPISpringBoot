@@ -6,3 +6,4 @@
 4. Swagger-UI Documentation for REST APIs.
 5. Content Negotitaion.
 6. Internationalization
+7. Versioning
