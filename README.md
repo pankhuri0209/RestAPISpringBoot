@@ -11,3 +11,4 @@
     b. Request Parameter versioning - Amazon
     c. (Custom) headers versioning - Microsoft
     d. Media type versioning - Github
+8. HATEOAS
