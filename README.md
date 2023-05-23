@@ -6,4 +6,8 @@
 4. Swagger-UI Documentation for REST APIs.
 5. Content Negotitaion.
 6. Internationalization
-7. Versioning
+7. Versioning based on:
+    a. URI Versioning - Twitter
+    b. Request Parameter versioning - Amazon
+    c. (Custom) headers versioning - Microsoft
+    d. Media type versioning - Github
