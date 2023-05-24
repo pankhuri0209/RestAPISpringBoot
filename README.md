@@ -11,5 +11,5 @@
     b. Request Parameter versioning - Amazon
     c. (Custom) headers versioning - Microsoft
     d. Media type versioning - Github
-8. HATEOAS
-9. Filtering
+8. HATEOAS, HAL
+9. Filtering (static,dynamic)
