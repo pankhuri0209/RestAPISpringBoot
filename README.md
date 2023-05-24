@@ -13,3 +13,4 @@
     d. Media type versioning - Github
 8. HATEOAS, HAL
 9. Filtering (static,dynamic)
+10. Actuators
