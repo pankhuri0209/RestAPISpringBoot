@@ -15,7 +15,8 @@
 9. Filtering (static,dynamic)
 10. Actuators
 11. JPA
-12. Docker
+12. Connet to H2 database
+13. Docker
 
 Command used: docker run --detach
 --env MYSQL_ROOT_PASSWORD=dummypassword
