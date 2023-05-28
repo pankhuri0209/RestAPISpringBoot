@@ -15,7 +15,7 @@
 9. Filtering (static,dynamic)
 10. Actuators
 11. JPA
-12. Connet to H2 database
+12. Connet to H2 database (in memory database)
 13. Docker
 
 Command used: docker run --detach
