@@ -26,3 +26,5 @@ Command used: docker run --detach
 --name mysql 
 --publish 3306:3306 
 mysql:8-oracle
+
+14. Connecting to mysql
