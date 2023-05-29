@@ -17,6 +17,9 @@
 11. JPA
 12. Connet to H2 database (in memory database)
 13. Docker
+14. Connecting to sql
+15. Add security and authentication to rest api
+
 
 Command used: docker run --detach
 --env MYSQL_ROOT_PASSWORD=dummypassword
