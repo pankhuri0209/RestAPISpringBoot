@@ -15,7 +15,7 @@
 9. Filtering (static,dynamic)
 10. Actuators
 11. JPA
-12. Connet to H2 database (in memory database)
+12. Connet to H2 database (in memory database) : http://localhost:8080/h2-console/
 13. Docker
 
 Command used: docker run --detach
