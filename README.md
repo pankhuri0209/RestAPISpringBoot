@@ -17,7 +17,7 @@
 11. JPA
 12. Connet to H2 database (in memory database)
 13. Docker
-14. Connecting to sql
+14. Connecting to sql (Downloaded mysql sh)
 15. Add security and authentication to rest api
 
 
