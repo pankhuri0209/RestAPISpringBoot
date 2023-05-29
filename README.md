@@ -17,9 +17,6 @@
 11. JPA
 12. Connet to H2 database (in memory database)
 13. Docker
-14. Connecting to sql (Downloaded mysql sh)
-15. Add security and authentication to rest api
-
 
 Command used: docker run --detach
 --env MYSQL_ROOT_PASSWORD=dummypassword
@@ -30,9 +27,26 @@ Command used: docker run --detach
 --publish 3306:3306 
 mysql:8-oracle
 
+15. Connecting to sql (Downloaded mysql sh)
+
 Commands used in sql window:
 --\connect social-mdeia-user@localhost:3306
 --\use social-media-database
 --\sql
 --select * from post;
 --select * from user_details;
+
+17. Add security and authentication to rest api
+
+--Spring Security
+--Filter Chains
+--All requests shoud be authenticated
+--If a request is not authenticated, a web page is shown
+--CSRF-> POST, PUT
+--Configuration
+--Bean Filter Chain
+
+
+
+
+
