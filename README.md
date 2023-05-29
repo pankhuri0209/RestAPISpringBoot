@@ -30,4 +30,9 @@ Command used: docker run --detach
 --publish 3306:3306 
 mysql:8-oracle
 
-14. Connecting to mysql
+Commands used in sql window:
+--\connect social-mdeia-user@localhost:3306
+--\use social-media-database
+--\sql
+--select * from post;
+--select * from user_details;
